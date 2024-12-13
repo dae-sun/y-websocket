@@ -96,7 +96,7 @@ messageHandlers[messageAuth] = (
 }
 
 // @todo - this should depend on awareness.outdatedTime
-const messageReconnectTimeout = 30000
+const messageReconnectTimeout = 180000
 
 /**
  * @param {WebsocketProvider} provider
