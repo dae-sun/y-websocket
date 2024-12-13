@@ -1,5 +1,5 @@
 {
-  "name": "y-websocket",
+  "name": "dong-websocket",
   "version": "2.0.4",
   "description": "Websockets provider for Yjs",
   "main": "./dist/y-websocket.cjs",
@@ -41,7 +41,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yjs/y-websocket.git"
+    "url": "git+https://github.com/dae-sun/y-websocket.git"
   },
   "keywords": [
     "Yjs"
